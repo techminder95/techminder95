@@ -1,4 +1,4 @@
-# 💫 thchminer:
+# 💫 techminer:
 Knowledgeable, self-driven, and adaptive Full Stack developer with 5 years’ coding experience.<br>Efficient and knowledgeable coder with skills in HTML, CSS, PHP, and JavaScript programming languages. <br>Collaborative and detail-oriented team player with excellent communication skills and ability to work with a team to develop and launch web solutions.<br>Proficient in working with Git / GitHub repositories.<br>
 
 
