@@ -1,6 +1,6 @@
 # 💫 techminer:
 <h3>
-  Knowledgeable, self-driven, and adaptive <b>Full Stack developer</b> with 5
+  Knowledgeable, self-driven, and adaptive <b style="font-weight:700;">Full Stack developer</b> with 5
   years’ coding experience.<br />Efficient and knowledgeable coder with skills
   in HTML, CSS, PHP, and JavaScript programming languages. <br />Collaborative
   and detail-oriented team player with excellent communication skills and
