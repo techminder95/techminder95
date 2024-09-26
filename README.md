@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, there. I am techminer95:
 An energetic and imaginative young web developer who is able to work alongside<br>other talented IT professionals in creating websites to the very highest standards.<br>I have a high awareness of industry issues and trends, particularly in regard to<br>accessibility, usability, and emerging technologies.<br><br>To utilize my technical skills to achieve the target and develop the best performance<br>in the organization. I would like to implement my innovative ideas, skills, and<br>creativity for accomplishing the projects.
 
 
